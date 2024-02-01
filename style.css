@@ -22,9 +22,14 @@ justify-content: center;
     width: 40vw;
   }
 
+  #heroImage {
+    transition: opacity 0.7s ease-in-out; */
+    opacity: 1;
+    }
+  
 
  .hero-Title, .hero-Subtitle{
-    margin-top: -68vw;
+    margin-top: -66vw;
     margin-bottom: auto;
     margin-right: -17vw;
     font-size: clamp(1.5rem, 8vw, 18rem);
