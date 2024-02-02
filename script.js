@@ -16,6 +16,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Fade in after changing the source
             heroImage.style.opacity = 1;
-        }, 700); // This should match the CSS transition time
+        }, 1000); // This should match the CSS transition time
     }, 4500); // Includes time for the image to be visible plus fade time
 });
