@@ -122,3 +122,34 @@ main {
       0 0 40px #ff00ff;
   }
 }
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+
+}
+
+address { 
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  line-height: 1.5rem;
+  margin-bottom: 2rem;
+  text-align: left ;
+
+}
+
+.address__h2 {
+font-style: normal;
+text-transform: uppercase;
+margin: 2rem 0rem 2rem 0rem ;
+
+}
+
+address a {
+  color: white;
+  text-decoration: none;
+}
